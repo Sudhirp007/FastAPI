@@ -1,26 +1,26 @@
 # Core FastAPI framework
-fastapi==0.95.0
+fastapi
 
 # ASGI server to run FastAPI
-uvicorn==0.22.0
+uvicorn
 
 # For async database access (if using databases like PostgreSQL or MySQL)
-databases==0.6.1
+databases
 
 # SQLAlchemy for database ORM (Object Relational Mapper)
-SQLAlchemy==2.0.20
+SQLAlchemy
 
 # Pydantic for data validation and settings (used by FastAPI)
-pydantic==2.0.3
+pydantic
 
 # Requests library for making HTTP requests
-requests==2.31.0
+requests
 
 # Optional: If you are using Jinja2 for templating
-jinja2==3.1.2
+jinja2
 
 # Optional: If using OAuth2 authentication
-python-jose==3.3.0
+python-jose
 
 # Optional: If using JWT tokens
-passlib==1.7.4
+passlib
